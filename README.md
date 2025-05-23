@@ -103,6 +103,5 @@ This project was crafted by **YogaWilanda**.
 ## 📄 License
 
 This project is open-source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
-*(**Note:** You'll need to create a separate file named `LICENSE` in your repository's root directory and paste the MIT license text into it.)*
 
 ```
